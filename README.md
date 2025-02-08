@@ -16,7 +16,7 @@ Before getting started, make sure you have the following tools installed:
 ## Database Setup
 
 In your MySQL server, create a new database using the file located at:  
-`Space dreams > Assets > 2D_Models > Database > DB Space dreams.sql`  
+`Space dreams > Assets > 2D_Models > Base de Datos > DB Space dreams.sql`  
 Ensure that the database is correctly configured to guarantee optimal game performance.  
 Additionally, the MySQL server login should use the username **'root'** and the password **'root'**.
 
